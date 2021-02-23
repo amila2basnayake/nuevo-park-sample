@@ -1,0 +1,49 @@
+.container {
+  background: #ffffff 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+  padding: 10px;
+  border-radius: 18px 18px 0 0;
+  margin-top: -20px !important;
+  height: 100%;
+}
+.lable {
+  text-align: left;
+  font: normal normal 600 20px/26px nunito_sanssemibold;
+  letter-spacing: -0.5px;
+  color: #365f84;
+  opacity: 1;
+}
+.section {
+  border: 2px solid #ededed;
+  border-radius: 6px;
+  background-color: #ffffff;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 16px;
+}
+.textFeild {
+  background-color: #ffffff;
+  border: 2px solid #607c96;
+  border-radius: 6px;
+  text-transform: capitalize !important;
+  opacity: 0.4;
+}
+.buttonSearch {
+  background: #0d4d8d 0% 0% no-repeat padding-box !important;
+  margin-left: 18px !important;
+  width: 18%;
+}
+.spanImg {
+  display: inline-block;
+  width: 18%;
+  height: 27px;
+}
+.spanText {
+  margin-left: -35px;
+  display: inline-block;
+  width: 81%;
+}
+.imgSearchDestination {
+  margin-bottom: -3px;
+  margin-left: -3px;
+}

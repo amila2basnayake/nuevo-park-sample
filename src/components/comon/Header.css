@@ -1,0 +1,16 @@
+.header {
+  height: 112px;
+  padding-top: 12px;
+  padding-left: 12px;
+  background: transparent
+    linear-gradient(179deg, #1ba7ee 0%, #0b67c3 43%, #0d4d8d 100%) 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+}
+.divLogo {
+  text-align: right;
+  margin-top: -25px;
+}
+.imgHomeLogo {
+  border-right: 1px solid #fff;
+}

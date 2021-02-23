@@ -1,0 +1,121 @@
+.homeContainer {
+  background: #55575a 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+  padding: 10px;
+  border-radius: 18px 18px 0 0;
+  margin-top: -20px !important;
+}
+.banerImage {
+  height: 126px;
+ background-image: linear-gradient(
+      to right,
+      rgba(0, 22, 151, 0.52),
+      rgba(117, 19, 93, 0.1)
+    ),
+    url("../../../assets/img/shutterstock_1457008421.png");
+  border: 1px solid #ffffff;
+  border-radius: 6px 6px 6px 6px;
+  width: 100%;
+  margin-left: -2px;
+  margin-bottom: 10px;
+}
+.banerImageTextNuevo {
+  font-size: xx-large;
+  color: #ffffff;
+  padding: 0px 0px 0px 10px;
+}
+.banerImageTextPark {
+  font-weight: bold;
+  font-size: xx-large;
+  color: #ffffff;
+}
+.banerImageTextDigitalExp {
+  margin-top: -20px;
+  font-size: x-large;
+  padding: 5px 0 0 10px;
+  color: #ffffff;
+}
+.touchPadContainer {
+  background: #55575a 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+}
+.locationId {
+  border: 1px solid #ffffff;
+  border-radius: 6px;
+  opacity: 1;
+  display: block;
+  padding: 10px;
+}
+.textFeildLocationId {
+  background-color: #ffffff !important;
+  border: "1px solid #ced4da";
+  width: "auto";
+  border-radius: 6px;
+  width: 65%;
+  margin-right: 10px;
+  /* padding: '10px 12px'; */
+}
+.spanDescription {
+  font-weight: bold;
+  color: #ffffff;
+}
+.buttonGo {
+  margin-left: 10px !important;
+  width: 30% !important;
+  background-color: #365f84 !important;
+  color: #fff !important;
+  font-weight: bold !important;
+  height: 40px !important;
+}
+.divSignInOut {
+  display: flex;
+  width: max-content;
+  padding: 5px;
+  margin-top: 12px;
+}
+.button {
+  width: 100%;
+  background: #f7f7f7 0% 0% no-repeat padding-box !important;
+  box-shadow: 0px 3px 2px #00000038 !important;
+  border: 2px solid #ffffff !important;
+  border-radius: 6px !important;
+  opacity: 1 !important;
+}
+.buttonDescription {
+  width: 100%;
+  background: #ededed 0% 0% no-repeat padding-box !important;
+  border-radius: 0px 0px 6px 6px !important;
+  opacity: 1 !important;
+  display: grid;
+  text-align: center;
+  text-transform: capitalize;
+  font: normal normal 600 16px/20px nunito_sansregular; 
+  letter-spacing: -0.24px;
+  color: #607c96;
+  opacity: 1;
+}
+.button-text {
+  text-align: center;
+  font: normal normal 600 16px/20px nunito_sansregular;
+  letter-spacing: -0.24px;
+  color: #607c96;
+  opacity: 1;
+}
+.banerPin {
+  width: 443px;
+  height: 229px;
+  margin-left: -62px;
+  background: transparent url("../../../assets/img/Pin2.png") 0% 0% no-repeat
+    padding-box;
+  position: inherit;
+  margin-top: -65px;
+  opacity: 1;
+}
+.signOut {
+  margin-right: 12px !important;
+  position: absolute;
+  right: 0;
+}
+.lableLocID {
+  padding: 0 0 8px 8px;
+}
